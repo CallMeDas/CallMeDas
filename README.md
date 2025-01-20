@@ -7,7 +7,6 @@
 <h3 align="center">A Python Enthusiastic.</h3>
 
 <br/>
-
 <div align="center">
  
  🔭 I’m currently working on **Fresher**
