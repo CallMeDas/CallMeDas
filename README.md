@@ -1,4 +1,4 @@
-<img align="center" src="https://docs.temporal.io/assets/images/banner-python-temporal-0d345d125b6892840c54f7e1460c8a5a.png" />
+<img align="center" src="https://media.licdn.com/dms/image/D5612AQHnOyL9HNOU1g/article-cover_image-shrink_720_1280/0/1687799881092?e=2147483647&v=beta&t=J6qE07ceFFQMOqCeLDq11jv9FsBWvt4Hfv9t1LjlHVs" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepak+Das!;" />
