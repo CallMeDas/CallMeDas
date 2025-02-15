@@ -1,4 +1,4 @@
-<img align="center" src="https://esource-malaysia.com/wp/wp-content/uploads/2022/01/python.jpg" />
+<img align="center" src="https://docs.temporal.io/assets/images/banner-python-temporal-0d345d125b6892840c54f7e1460c8a5a.png" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepak+Das!;" />
