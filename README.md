@@ -15,7 +15,7 @@
 
 💬 Ask me about **Python, Django... or anything [here](https://github.com/CallMeDas/CallMeDas/issues)**
 
-⚡ Fun fact **Codes Never Lies But Comments Sometime Do!**
+⚡ Fun fact **Codes Never Lies But Comments Sometime Do..!**
 
  </div>
  
