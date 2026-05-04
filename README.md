@@ -11,9 +11,9 @@
  
  🔭 I’m currently working on **Fresher**
  
- 🌱 I’m currently learning **Python, Django**
+ 🌱 I’m currently learning **Python**
 
-💬 Ask me about **Python, Django... or anything [here](https://github.com/CallMeDas/CallMeDas/issues)**
+💬 Ask me about **Python... or anything [here](https://github.com/CallMeDas/CallMeDas/issues)**
 
 ⚡ Fun fact **Codes Never Lies But Comments Sometime Do..!**
 
